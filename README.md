@@ -1,7 +1,7 @@
-# hw1_MeflahRadjaaWided_ZerriahenSouhaYamina_V2
+#matmul-benchmark
 
 
-                            Homework 1: Parallel Dense Matrix-Matrix Multiplication
+                             Parallel Dense Matrix-Matrix Multiplication
 
  ***Description***
  
